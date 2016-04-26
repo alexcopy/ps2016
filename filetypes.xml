@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="template" type="PLAIN_TEXT" />
+      <mapping pattern="helpfull_paths" type="PLAIN_TEXT" />
+      <mapping pattern="pdf_create" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
